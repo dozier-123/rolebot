@@ -7,7 +7,7 @@ const {
   Events 
 } = require('discord.js');
 
-const TOKEN = process.env.TOKEN;
+const TOKEN = process.env.TOKEN1;
 
 // roles you want (bot will auto-create them with "Oid")
 const BASE_ROLES = [
